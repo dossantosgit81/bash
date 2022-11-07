@@ -31,5 +31,16 @@
 
     Váriaveis que já foram declaradas pelo sistema
         echo $USER
+
+    Optendo ajuda comandos
+        date --help -> Ajuda de um comando do terminal
+        man date -> Manual de ajuda
+        type date -> Saber se um comando é interno ou faz parte do bash
+        info bash -> informações bash
+        whatis date -> Informação simplificada date
+        apropos "System date" -> Trás um comando baseado em uma descrição
+        whereis date -> Mostra onde está o camando
+        Por último -> Pesquisar no google
+        
         
 
